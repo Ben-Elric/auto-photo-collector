@@ -15,7 +15,7 @@ pip install requests和zipfile库
 4.双击收集大学习.py 。
 
 ### 结果
-见[pdf](Readme.pdf)。
+具体见[pdf](Readme.pdf)。
 
 ## 注意事项!
 1.跑脚本时需要关掉梯子。<br/>
