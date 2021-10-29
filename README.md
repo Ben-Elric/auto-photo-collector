@@ -19,11 +19,11 @@ pip install requests和zipfile库
 
 ## 注意事项!
 1.跑脚本时需要关掉梯子。<br/>
-2.文件均存放在英文目录
+2.文件均存放在英文目录。
 
 ## 附录
 感谢使用。<br/>
-关注我的博客：[iben7.xyz](https://iben7.xyz/)
+关注我的博客：[iben7.xyz](https://iben7.xyz/)。
 
 
 
